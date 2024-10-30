@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-19 15:26+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: class-media-download.php:38
+msgid "Thanks for using Media Library File Download!"
+msgstr ""
+
+#: class-media-download.php:39
+#, php-format
+msgid "Want more features? Upgrade to <a href=\"%s\">Pro</a>"
+msgstr ""
+
+#: class-media-download.php:41 class-media-download.php:75
+msgid "Image conversion"
+msgstr ""
+
+#: class-media-download.php:42 class-media-download.php:76
+msgid "Bulk downloads"
+msgstr ""
+
+#: class-media-download.php:43
+msgid "and much more!"
+msgstr ""
+
+#: class-media-download.php:70
+msgid "Nice!"
+msgstr ""
+
+#: class-media-download.php:71
+#, php-format
+msgid "You have downloaded %d files!"
+msgstr ""
+
+#: class-media-download.php:72
+msgid "If you're enjoying this plugin consider upgrading to PRO:"
+msgstr ""
+
+#: class-media-download.php:74
+msgid "Unlimited downloads"
+msgstr ""
+
+#: class-media-download.php:78
+msgid "Upgrade now"
+msgstr ""
+
+#: class-media-download.php:82
+msgid "Download Archive"
+msgstr ""
+
+#: class-media-download.php:108
+msgid "Download"
+msgstr ""
